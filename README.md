@@ -1,6 +1,3 @@
-This is a professional, technical README designed for a GitHub repository or a
-final project submission. It highlights the sophisticated use of Deep Speech
-Embeddings and the high clinical accuracy you achieved.
 
 Parkinson’s Disease Detection via Deep Speech Embeddings
 
@@ -96,11 +93,3 @@ Quick Run
     model.fit(X_train_scaled, y_train)
 3.  Aggregate: Group results by speaker_id to achieve 95% accuracy.
 
-📝 Acknowledgments
-
-  - OpenAI Whisper: For providing the pre-trained speech transformer.
-  - Scikit-Learn: For the classification and evaluation framework.
-
-Author: [Your Name]
-License: MIT
-Status: Completed - 95% Accuracy Achieved.
